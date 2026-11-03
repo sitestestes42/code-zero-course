@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Visão geral"},{"path":"/trilha","title":"Trilha de aprendizado"},{"path":"/aula/:moduleId/:lessonId","title":"Aula"},{"path":"/exercicios","title":"Exercícios"},{"path":"/editor","title":"Laboratório de código"},{"path":"/projetos","title":"Projetos"},{"path":"/avaliacoes","title":"Avaliações"},{"path":"/perfil","title":"Perfil"}]}
